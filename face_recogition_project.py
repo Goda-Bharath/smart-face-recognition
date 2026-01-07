@@ -21,7 +21,7 @@ while True:
         gray,
         scaleFactor=1.1,   
         minNeighbors=4,
-        minSize=(60, 60)   
+        minSize=(80, 80)   
     )
 
     for (a, b, c, d) in faces:
